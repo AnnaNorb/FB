@@ -1,0 +1,71 @@
+/* Awesome new style for facebook */
+
+    body {
+    	text-align: center;
+    	background-color: #fff;
+    	color: #3B5998;
+    	font-family: "San Francisco", "Segoe UI", Roboto, Tahoma;
+    	border: 0;
+    	padding: 0;
+    }
+    div[class="main"] {
+    	text-align: center;
+  		max-width: 250px;
+    	display: block;
+		margin: 0 auto;
+		padding: 0 10%;
+ 	}
+    p {
+    	font-size: 22px;
+    	font-type: bold;
+    }
+    img {
+		margin: 100px auto 50px auto;
+    	width: 100%;
+    }
+    a {
+    	text-decoration: none;
+    	font-size: 18px;
+    	font-family: "San Francisco", "Segoe UI", Roboto, Tahoma;
+    	border-radius: 5px;
+     	display: block;
+ 		padding: 10px 0 10px 0;
+  	}
+    .button1 {
+    	background-color: #3B5998;
+		border: 0;
+    	color: #fff;
+ 		font-weight: bold;
+    	margin: 10px auto;
+    	width: 100%;
+   	}
+    .button2 {
+    	color: #6d84b4;
+		border: 0;
+    	background-color: #fff;
+ 		font-weight: bold;
+    	margin: 10px auto;
+    	width: 100%;
+   	}
+    .button3 {
+    	color: #6d84b4;
+		border: 0;
+    	background-color: #fff;
+    	display: block;
+    	font-size: 16px;
+    	margin: 0 auto;
+    	width: 100%;
+   	}
+    input {
+       	text-align: center;
+    	color: #3B5998;
+    	background: #fff;
+		font-size: 18px;
+		border: 0;
+    	border-radius: 5px;
+		margin: 0 auto;
+ 		padding: 10px 0;
+    	display: block;
+    	width: 100%;
+    }
+
